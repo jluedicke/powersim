@@ -1,7 +1,7 @@
 *!   -powersim- version 1.0.0 JL 26July2013
 
-clear all
-mata mata clear
+*clear all
+*mata mata clear
 
 *	Simulation-based power analysis for linear
 *	and generalized linear models
